@@ -25,9 +25,6 @@ Vi förbehåller oss rätten att när som helst ändra dessa villkor. Vid väsen
 ### Immateriella Rättigheter 
 Alla immateriella rättigheter, inklusive upphovsrätt och varumärken, kopplade till appen och dess innehåll tillhör oss eller våra licensgivare. Du får inte kopiera, distribuera, ändra eller på annat sätt reproducera materialet utan vårt skriftliga medgivande. 
 
-### Tillämplig Lag och Tvistelösning 
-Dessa villkor regleras av svensk lag. Eventuella tvister som uppstår i samband med användningen av appen ska i första hand lösas genom förhandlingar. Om en lösning inte kan uppnås ska tvisten avgöras av svensk allmän domstol med tillämpning av svensk rätt. 
-
 ### Övriga Villkor 
 Dessa villkor utgör hela avtalet mellan dig och oss gällande användningen av appen. Om någon bestämmelse i dessa villkor skulle visa sig vara ogiltig eller ej verkställbar, ska detta inte påverka giltigheten av övriga bestämmelser. 
 
