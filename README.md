@@ -8,6 +8,24 @@
 - Användare: Den person eller de personer som laddar ner, installerar och använder appen. 
 - GPS-navigering: Den funktion inom appen som med hjälp av GPS-teknik visar din geografiska position och rutt på Storsjön. 
 
+
+### Prenumeration och Betalning
+Appen är en prenumerationsbaserad tjänst. För att få tillgång till kartmaterial och navigeringsfunktioner krävs en aktiv prenumeration.
+
+#### Prenumerationsalternativ
+Vi erbjuder följande prenumerationsplaner:
+
+Månad: 59 SEK per månad
+6 månader: 199 SEK
+12 månader: 249 SEK
+
+Priser kan ändras i framtiden, men eventuella prisändringar kommuniceras i förväg.
+
+#### Hantering av prenumeration
+Prenumerationen debiteras via ditt kreditkort kopplat till ditt Apple-ID eller Google Play-konto vid bekräftelse av köpet.
+Prenumerationen förnyas automatiskt vid slutet av varje period, om den inte avbryts minst 24 timmar innan nästa betalningsperiod börjar.
+Hantering och uppsägning av prenumerationen sker via enhetens inställningar under Abonnemang i App Store eller Google Play.
+
 ### Användarens Ansvar 
  Du ansvarar själv för att kontrollera att din utrustning fungerar korrekt och att du har en uppdaterad version av appen. Vid navigation på Storsjön ska du alltid följa gällande säkerhetsföreskrifter och ta egna säkerhetsbeslut. 
 
